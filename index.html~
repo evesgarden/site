@@ -60,9 +60,9 @@
 
     <!-- Header -->
     <header id="top" class="header">
-        <div class="text-vertical-center">
+        <div class="text-vertical-center" style="color: #fff">
             <h1>This is Eve</h1>
-            <h3>Free Bootstrap Themes &amp; Templates</h3>
+            <h3>A modern woman's journey into ancient sensuality</h3>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Enter my Garden</a>
         </div>
